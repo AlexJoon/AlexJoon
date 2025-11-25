@@ -15,7 +15,7 @@ Focus Areas:
 
 ---
 
-## Ongoing Work & Projects
+## Things I'm Currently Working On Here
 
 ### Neurovios (Primary Stream Outside of Work) [Private]
 System architecture and agent pipelines for an AI research platform focused on dynamic search, topic clustering, gap-aware retrieval, and human-in-the-loop reasoning workflows.
