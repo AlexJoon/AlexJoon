@@ -17,8 +17,8 @@ Focus Areas:
 
 ## Ongoing Work & Projects
 
-### Neurovios (Primary Stream Outside of Work)
+### Neurovios (Primary Stream Outside of Work) [Private]
 System architecture and agent pipelines for an AI research platform focused on dynamic search, topic clustering, gap-aware retrieval, and human-in-the-loop reasoning workflows.
 
-### Syllabi-Insights (Professional)
+### Syllabi-Insights (Professional) [Public]
 RAG-powered academic document intelligence tool leveraging Scale Agentex for structured extraction and insight synthesis.
