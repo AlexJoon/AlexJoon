@@ -4,9 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)]()
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)]()
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)]()
 [![Cloud Run](https://img.shields.io/badge/Google%20Cloud%20Run-4285F4?logo=googlecloud&logoColor=white)]()
-[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)]()
 
 Focus Areas:
 - Agentic search systems  
@@ -17,6 +15,10 @@ Focus Areas:
 
 ---
 
-## Languages Used (by file size)
+## Ongoing Work & Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJoon&layout=compact&theme=transparent)
+### Neurovios (Primary Stream Outside of Work)
+System architecture and agent pipelines for an AI research platform focused on dynamic search, topic clustering, gap-aware retrieval, and human-in-the-loop reasoning workflows.
+
+### Syllabi-Insights (Professional)
+RAG-powered academic document intelligence tool leveraging Scale Agentex for structured extraction and insight synthesis.
