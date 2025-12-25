@@ -20,20 +20,9 @@ Focus Areas:
 ## Things I'm Currently Working On Here
 
 ### Neurovios (Primary Stream Outside of Work) [Private]
-AI research platform with four interfaces: **Chat** (web + workspace search), **Research** (multi-source synthesis with citations), **Explore** (topic discovery cards), and **Sources** (searchable reference library).
+AI research platform with four interfaces: **Chat** (web + workspace search), **Research** (multi-source synthesis with citations), **Explore** (topic discovery cards), and **Sources** (searchable reference library). Built with Next.js 14 + Python/Starlette + PostgreSQL + Mistral AI.
 
-**Architecture:** Next.js 14 + Python/Starlette + PostgreSQL + Mistral AI
-
-**Core Systems:**
-- Search orchestrator coordinating 8 providers (Tavily, Bing, arXiv, CrossRef, OpenAlex, CORE, GitHub, Stack Overflow)
-- Real-time research activity logging via SSE streaming
-- Multi-format output engine (literature reviews, annotated bibliographies, comparative analyses)
-- Citation formatting (APA, MLA, Chicago, IEEE, Numeric) with source attribution
-- 11 workspace integrations (Notion, Slack, Google Drive, Confluence, Jira, Linear, Asana, etc.)
-- OAuth token management with document ingestion for RAG context
-- Export pipeline (PDF, PowerPoint, Word) + platform sharing (Notion, Confluence, Gmail, Slack)
-- Task creation across project management tools (Jira, Linear, Asana, Monday, Trello)
-- Voice transcription via Voxtral
+<sub>Search orchestration (8 providers) · SSE streaming · Citation engine (APA/MLA/Chicago/IEEE) · 11 workspace integrations · OAuth + RAG ingestion · Export (PDF/PPTX/DOCX) · Task creation (Jira/Linear/Asana) · Voice transcription</sub>
 
 ### Syllabi-Insights (Professional) [Public]
 RAG-powered academic document intelligence tool leveraging Scale Agentex for structured extraction and insight synthesis.
