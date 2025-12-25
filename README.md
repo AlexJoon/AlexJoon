@@ -19,10 +19,8 @@ Focus Areas:
 
 ## Things I'm Currently Working On Here
 
-### Neurovios (Primary Stream Outside of Work) [Private]
+### Neurovios [Private]
 AI research platform with four interfaces: **Chat** (web + workspace search), **Research** (multi-source synthesis with citations), **Explore** (topic discovery cards), and **Sources** (searchable reference library). Built with Next.js 14 + Python/Starlette + PostgreSQL + Mistral AI.
 
 <sub>Search orchestration (8 providers) · SSE streaming · Citation engine (APA/MLA/Chicago/IEEE) · 11 workspace integrations · OAuth + RAG ingestion · Export (PDF/PPTX/DOCX) · Task creation (Jira/Linear/Asana) · Voice transcription</sub>
 
-### Syllabi-Insights (Professional) [Public]
-RAG-powered academic document intelligence tool leveraging Scale Agentex for structured extraction and insight synthesis.
