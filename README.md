@@ -15,11 +15,3 @@ Focus Areas:
 - RAG system engineering
 - Async Python backend services
 
----
-
-## Things I'm Currently Working On Here
-
-### Neurovios [Private]
-AI-powered research platform that synthesizes information from web, academic databases (arXiv, CrossRef, OpenAlex, CORE), and connected workspace tools into structured, cited reports. Users can chat for quick answers, run deep multi-source research with real-time activity logging, explore trending topics, and maintain a searchable source library. Supports multiple output formats (literature reviews, annotated bibliographies, comparative analyses) with proper academic citations. Next.js 14 + Python/Starlette + PostgreSQL + Mistral AI.
-
-<sub>Search orchestration (8 providers) · SSE streaming · Citation engine (APA/MLA/Chicago/IEEE) · 11 workspace integrations (Notion, Slack, Google Drive, Confluence, Jira, Linear, Asana, Monday, Trello) · OAuth + RAG document ingestion · Export (PDF/PPTX/DOCX) · Platform sharing (Notion, Confluence, Gmail, Slack) · Task creation · Voice transcription (Voxtral)</sub>
