@@ -8,7 +8,7 @@
 [![Starlette](https://img.shields.io/badge/Starlette-009688?logo=starlette&logoColor=white)]()
 
 Focus Areas:
-- Multi-source search orchestration (web, academic, code, workspace)
+- Multi-source search & API provider orchestration
 - Real-time streaming architectures (SSE)
 - OAuth integration pipelines
 - Citation-aware content synthesis
